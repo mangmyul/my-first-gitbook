@@ -8,7 +8,7 @@
 ## 도구
 - [Visual Studio Code](https://code.visualstudio.com/) - 코드 에디터
 - [GitHub](https://github.com) - 코드 저장소
-- {Gitbook}(https://www.gitbook.com/) - 문서 작성 플랫폼
+- [Gitbook](https://www.gitbook.com/) - 문서 작성 플랫폼
 
 ## 내 e-book 내부 링크
 - [소개 페이지](README.md)
